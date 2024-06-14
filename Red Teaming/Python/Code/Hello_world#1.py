@@ -1,0 +1,7 @@
+print("hello")
+print("\n")
+print("kali\tlinux")
+print("world","hakcer")
+print("whoami"+"clay")
+print("type any thing to display")
+print('buy buy😘')
